@@ -3,8 +3,6 @@
 namespace App;
 
 use Illuminate\Database\Eloquent\Model;
-use App\Todo;
-use App\Goal;
 
 class Goal extends Model
 {
